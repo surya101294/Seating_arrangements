@@ -1,4 +1,24 @@
-Problem Description:
+# Backend Git hub link
+ https://github.com/surya101294/Train_Seating_Arrangement/tree/main
+
+# TechStack
+ # Front-End
+- HTML
+- CSS
+- JavaScript
+- React
+
+# Back-End
+- NodeJS
+- Express
+- MongoDB
+
+# Front-End Deployment - Vercel
+
+# Back-End Deployment - Cyclic 
+
+
+# Problem Description:
 1. There are 80 seats in a coach of a train with only 7 seats in a row and last row of only 3 seats. For
 simplicity, there is only one coach in this train.
 2. One person can reserve up to 7 seats at a time.
